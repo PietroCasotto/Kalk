@@ -9,6 +9,7 @@ Inoltre per le matrici è stata inserita l'operazione di trasposta, per le matri
 Per i complessi è stato inserito il coniugato, il modulo e l'elevamento a potenza.
 
 La gerarchia viene riportata anche in Java con una classe di test, dove vengono mostrate tutte le operazioni possibili.
+PS: Se qualcuno vuole/può aiutarmi a fare l'interfaccia grafica simile a quella già realizzata in C++ anche per Java mi farebbe un favore
 
 
 Manuale utente della GUI:
